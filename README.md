@@ -1,5 +1,9 @@
 # Traveling Salesman Problem (TSP) Solver
 
+<div align="center">
+  <img src="salesman.jpg" alt="picture" width="50%">
+</div>
+
 Proyek ini adalah aplikasi berbasis web untuk menyelesaikan **Traveling Salesman Problem (TSP)** menggunakan berbagai algoritma, seperti:
 - **Bruteforce**
 - **Greedy**
@@ -80,10 +84,6 @@ Pastikan Anda memiliki:
    - Klik tombol "Jalankan Algoritma" untuk melihat hasilnya.
 
 ---
-
-<div align="center">
-  <img src="https://drive.google.com/file/d/1C79mQwO1HLz-iML5KcG1CJqJluzGUSJc/view?usp=sharing" alt="Deskripsi gambar" width="50%">
-</div>
 
 
 
