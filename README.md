@@ -82,8 +82,8 @@ Pastikan Anda memiliki:
 ---
 
 <div align="center">
-  <img src="[picture](https://drive.google.com/uc?id=1C79mQwO1HLz-iML5KcG1CJqJluzGUSJc)" alt="picture" width="50%">
+  ![Screenshot](https://drive.google.com/uc?id=1C79mQwO1HLz-iML5KcG1CJqJluzGUSJc)
 </div>
 
 
-![Screenshot](https://drive.google.com/uc?id=1C79mQwO1HLz-iML5KcG1CJqJluzGUSJc)
+
