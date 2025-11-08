@@ -81,6 +81,4 @@ Pastikan Anda memiliki:
 
 ---
 
-## Screenshot
-
 ![Screenshot](https://drive.google.com/uc?id=1C79mQwO1HLz-iML5KcG1CJqJluzGUSJc)
