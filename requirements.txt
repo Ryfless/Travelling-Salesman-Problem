@@ -1,0 +1,5 @@
+Flask==2.0.3
+uvicorn==0.15.0
+fastapi==0.70.0
+pydantic==1.8.2
+```
