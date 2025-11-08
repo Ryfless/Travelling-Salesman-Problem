@@ -82,7 +82,7 @@ Pastikan Anda memiliki:
 ---
 
 <div align="center">
-  ![Screenshot](https://drive.google.com/uc?id=1C79mQwO1HLz-iML5KcG1CJqJluzGUSJc)
+  <img src="https://drive.google.com/file/d/1C79mQwO1HLz-iML5KcG1CJqJluzGUSJc/view?usp=sharing" alt="Deskripsi gambar" width="50%">
 </div>
 
 
